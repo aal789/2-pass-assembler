@@ -1,0 +1,10 @@
+LDA	00
+STA	23
+ADD	01
+SUB	05
+LDX     04
+TIX     2C
+JLT     38
+RSUB    4C
+
+
